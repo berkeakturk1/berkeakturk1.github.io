@@ -4,7 +4,14 @@
     padding-right: 300px;
     padding-top: 100px;
     padding-bottom: 25px;
-    
-    justify-content: center;
-    align-items: center;
+    text-align: justify;
+
   }
+
+.title {
+  padding-left: 400px;
+  font-family: "Abril Fatface"; 
+  font-size: 90px; 
+  font-style: normal; 
+  font-variant: normal;
+}
